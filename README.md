@@ -4,4 +4,4 @@ DESCRIPTION: This is a simple calendar application that allows the user to save 
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 This app is using API moment.js
 
-Link to website: 
+Link to website: https://bradystafford.github.io/Schedule-your-workday-/
